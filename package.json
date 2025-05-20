@@ -1,13 +1,13 @@
 {
-  "name": "foundation-sites",
-  "version": "6.9.0",
+  "name": "@bbonillachavez/foundation-sites",
+  "version": "6.9.1",
   "main": "dist/js/foundation.js",
   "module": "dist/js/foundation.esm.js",
   "jsnext:main": "dist/js/foundation.esm.js",
   "esnext": "dist/js/foundation.es6.js",
   "typings": "dist/js/foundation.d.ts",
   "description": "The most advanced responsive front-end framework in the world.",
-  "author": "Foundation Yetinauts <contact@get.foundation> (https://get.foundation)",
+  "author": "Brayan Bonilla Chavez",
   "homepage": "https://get.foundation/sites",
   "scripts": {
     "start": "gulp",
@@ -117,7 +117,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foundation/foundation-sites"
+    "url": "https://github.com/bbonillachavez/foundation-sites.git"
   },
   "bugs": {
     "url": "https://github.com/foundation/foundation-sites/issues",
